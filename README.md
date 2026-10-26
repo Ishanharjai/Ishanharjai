@@ -40,8 +40,8 @@ BCA student (2024–2027) with hands-on exposure to Data Science through a 45-da
 - Foundational Python, Udemy
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ishanharjai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ishanharjai&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanharjai&theme=dark&hide_border=false&layout=compact)
